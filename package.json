@@ -1,0 +1,19 @@
+{
+  "name": "svelte-ripple",
+  "version": "1.0.0",
+  "description": "Svelte Ripple Action",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myleftshoe/svelte-ripple.git"
+  },
+  "author": "mls",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myleftshoe/svelte-ripple/issues"
+  },
+  "homepage": "https://github.com/myleftshoe/svelte-ripple#readme"
+}
