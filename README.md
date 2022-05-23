@@ -4,6 +4,7 @@ Ripple effect from the *soon to be deprecated* [Svelte Materialify](https://svel
 
 - zero dependencies
 - works on any element (not just buttons)
+- implemented as a [svelte action](https://svelte.dev/tutorial/actions)
 
 ## Install
 
