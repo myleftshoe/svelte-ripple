@@ -1,2 +1,51 @@
 # svelte-ripple
-Svelte Ripple Action
+
+Ripple effect from the *soon to be deprecated* [Svelte Materialify](https://svelte-materialify.vercel.app/) as a standalone npm package.
+
+- zero dependencies
+- works on any element (not just buttons)
+
+## Install
+
+```bash
+npm install svelte-ripple-action
+```
+
+## Import
+
+```js
+import Ripple from 'svelte-ripple-action'
+```
+
+## Use | simplest
+
+```html
+<div use:Ripple>
+    // div content
+</div> 
+```
+
+## Use | with options
+
+```html
+<div use:Ripple={{ centered: false, color: 'red' }}>
+    // div content
+</div> 
+```
+
+These are the defaults, all can be passed in as options:
+
+```js
+const defaults = {
+    color: 'currentColor',
+    class: '',
+    opacity: 0.1,
+    centered: false,
+    spreadingDuration: '.4s',
+    spreadingDelay: '0s',
+    spreadingTimingFunction: 'linear',
+    clearingDuration: '1s',
+    clearingDelay: '0s',
+    clearingTimingFunction: 'ease-in-out',
+}
+```
