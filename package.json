@@ -1,6 +1,6 @@
 {
-  "name": "svelte-ripple",
-  "version": "1.0.0",
+  "name": "svelte-ripple-action",
+  "version": "0.0.1",
   "description": "Svelte Ripple Action",
   "main": "index.js",
   "scripts": {
