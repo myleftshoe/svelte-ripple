@@ -9,13 +9,13 @@ Ripple effect from the *soon to be deprecated* [Svelte Materialify](https://svel
 ## Install
 
 ```bash
-npm install svelte-ripple-action
+npm install svelte-ripple
 ```
 
 ## Import
 
 ```js
-import Ripple from 'svelte-ripple-action'
+import Ripple from 'svelte-ripple'
 ```
 
 ## Use | simplest
