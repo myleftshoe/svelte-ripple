@@ -1,6 +1,6 @@
 # svelte-ripple
 
-Ripple effect from the *soon to be deprecated* [Svelte Materialify](https://svelte-materialify.vercel.app/) as a standalone npm package.
+Ripple effect from [Svelte Materialify](https://svelte-materialify.vercel.app/) as a standalone npm package.
 
 - zero dependencies
 - works on any element (not just buttons)
